@@ -1,5 +1,7 @@
 # Gilmore_Girls_Project
 
+Final project for DS 5001 (University of Virginia) Exploratory Text Analytics.
+
 The popular American comedy-drama tv series, Gilmore Girls, is well-known for having longer than average scripts due to the fast dialogue of the two main characters, Lorelai and Rory Gilmore, a mother-daughter duo. Most hour-long tv show scripts average around 40-50 pages in length while Gilmore Girls averaged around 80 pages! I chose to analyze Gilmore Girls due to my domain knowledge on the subject and to uncover patterns in speech text with the potential for better results given a larger sized corpus compared to many tv shows.
 
 The methods applied in this project included:
